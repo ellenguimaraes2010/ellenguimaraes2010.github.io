@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: arial, sans-serif;
+  background-color: oklab(77.712% 0.08007 -0.10521);
+
+}
+.inicio {
+   display:flex;
+   height:100vh;
+}
