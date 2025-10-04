@@ -68,6 +68,6 @@ body {
 }
 
 .social a:hover {
-  color: #444;
-  background-color: gray;
+  color: #3b3434;
+  background-color: rgb(133, 104, 104);
 }
